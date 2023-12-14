@@ -1,0 +1,11 @@
+C:\Users\edilson.csbispo\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\edilson.csbispo\source\repos\login\login\bin\Debug\login.exe
+C:\Users\edilson.csbispo\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.exe
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.pdb
+C:\Users\edilson.csbispo\source\repos\login\login\obj\Debug\login.txb_usuario.resources
